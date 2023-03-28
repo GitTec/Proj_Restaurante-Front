@@ -1,0 +1,11 @@
+.conteudo {
+    background-color: #eff5f5;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    min-height: calc(100vh - 4.1rem);
+}
+

@@ -1,0 +1,35 @@
+.conteudo {
+    background-color: #eff5f5;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    min-height: calc(100vh - 4.1rem);
+}
+.botaoExcluir{
+    background-color: #f44336;
+    border: 1px solid #f70b0d;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 8px;
+}
+.botaoEditar{
+    background-color: #3b4ef3;
+    border: 1px solid #0c297a;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 8px;
+}
+.botaoExcluir:hover{
+    background-color: #9b0000;
+}
+.botaoEditar:hover{
+    background-color: #0c297a;
+}
+.cab_table{
+    background-color: #3b4ef3;
+}
+
+

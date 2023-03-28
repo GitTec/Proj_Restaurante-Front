@@ -1,0 +1,19 @@
+.dropdown {
+    border-radius: 5px;
+    background-color: #2C64AB;
+    color: white;
+    width: 6rem;
+    height: 2rem;
+    justify-content: end;
+}
+
+.NavCabecalho {
+    /* position: fixed; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 40px;
+    box-shadow: 0 0.5rem 0.5rem #ccc;
+    width: 100%;
+    transition: all 0.5s;
+}
